@@ -1,6 +1,6 @@
 # 🪞 Mirror Deployer
 
-**Built by [@yksanjo](https://github.com/yksanjo) — ex-Atlantic Records, ex-Warner Music**
+**Built by [@yksanjo](https://github.com/yksanjo)**
 
 The deployer reputation feed for pump.fun. Every coin has a deployer behind it — some have shipped three graduates in a row, some have rugged five times this week. **Mirror Deployer** makes the track record public.
 
