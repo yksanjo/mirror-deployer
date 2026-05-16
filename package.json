@@ -1,7 +1,7 @@
 {
   "name": "mirror-deployer",
   "version": "1.0.0",
-  "description": "🪞 Deployer reputation feed for pump.fun — every launch gets an AI thesis, every deployer gets a track record. Built by @yksanjo — ex-Atlantic Records, ex-Warner Music.",
+  "description": "🪞 Deployer reputation feed for pump.fun — every launch gets an AI thesis, every deployer gets a track record. Built by @yksanjo.",
   "private": true,
   "scripts": {
     "dev": "next dev -p 3032",

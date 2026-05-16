@@ -83,4 +83,4 @@ Production runs on port 3032. See `deploy/` for systemd + Caddy snippets.
 
 ---
 
-*Built by [Yoshi Kondo](https://linkedin.com/in/yoshi-kondo-3110462a9/) · [@yksanjo](https://github.com/yksanjo)*
+*Built by [@yksanjo](https://github.com/yksanjo)*
